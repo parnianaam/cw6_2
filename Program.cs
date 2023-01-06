@@ -7,4 +7,14 @@ void PrintMessage(string message)
     {
     Console.WriteLine(message);
     }
+    else if(message.Length<5)
+    {
+        Console.WriteLine("Invalid");
+
+    }
+    else
+    {
+        Console.WriteLine($"* {message} *");
+  
+    }
 }
