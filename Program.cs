@@ -3,5 +3,13 @@ Console.WriteLine("Hello, World!");
 
 void PrintMessage(string message)
 {
-    Console.WriteLine(message);
+    if(message.Length<5)
+    {
+        Console.WriteLine("Invalid");
+
+    }
+    else
+    {
+        Console.WriteLine($"* {message} *");
+    }
 }
