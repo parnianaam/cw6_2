@@ -14,7 +14,7 @@ void PrintMessage(string message)
     }
     else
     {
-        Console.WriteLine($"* {message} *");
+        Console.WriteLine("yourmessageisnull ");
   
     }
 }
