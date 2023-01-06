@@ -1,0 +1,15 @@
+C:\Users\hufu\Desktop\cw6_2\cw6_2\bin\Debug\net7.0\cw6_2.exe
+C:\Users\hufu\Desktop\cw6_2\cw6_2\bin\Debug\net7.0\cw6_2.deps.json
+C:\Users\hufu\Desktop\cw6_2\cw6_2\bin\Debug\net7.0\cw6_2.runtimeconfig.json
+C:\Users\hufu\Desktop\cw6_2\cw6_2\bin\Debug\net7.0\cw6_2.dll
+C:\Users\hufu\Desktop\cw6_2\cw6_2\bin\Debug\net7.0\cw6_2.pdb
+C:\Users\hufu\Desktop\cw6_2\cw6_2\obj\Debug\net7.0\cw6_2.csproj.AssemblyReference.cache
+C:\Users\hufu\Desktop\cw6_2\cw6_2\obj\Debug\net7.0\cw6_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hufu\Desktop\cw6_2\cw6_2\obj\Debug\net7.0\cw6_2.AssemblyInfoInputs.cache
+C:\Users\hufu\Desktop\cw6_2\cw6_2\obj\Debug\net7.0\cw6_2.AssemblyInfo.cs
+C:\Users\hufu\Desktop\cw6_2\cw6_2\obj\Debug\net7.0\cw6_2.csproj.CoreCompileInputs.cache
+C:\Users\hufu\Desktop\cw6_2\cw6_2\obj\Debug\net7.0\cw6_2.dll
+C:\Users\hufu\Desktop\cw6_2\cw6_2\obj\Debug\net7.0\refint\cw6_2.dll
+C:\Users\hufu\Desktop\cw6_2\cw6_2\obj\Debug\net7.0\cw6_2.pdb
+C:\Users\hufu\Desktop\cw6_2\cw6_2\obj\Debug\net7.0\cw6_2.genruntimeconfig.cache
+C:\Users\hufu\Desktop\cw6_2\cw6_2\obj\Debug\net7.0\ref\cw6_2.dll
